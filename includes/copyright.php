@@ -1,0 +1,2 @@
+<p> &copy; <?php echo date("Y") ?> Brittanee Liukkonen </p>
+<p>Logo artist: Pedro Lalli via <a href="https://thenounproject.com/pedro.lalli/" target="_blank">The Noun Project</a>. Licensed under Creative Commons.</p>
