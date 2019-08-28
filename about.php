@@ -26,7 +26,7 @@
         
         <p>Hi, my name is Brittanee Liukkonen and I am curently a student at San Jose State University pursuing a Master's degree in Library and Information Science with emphasis on data analysis and data-driven decision making. </p>
 
-        <p>I am working toward a career in research or data librarianship and data analysis. Many of my projects are centered around this theme, but I enjoy all aspects of librarianship and data! In addition to the projects on the <a href="projects.php">Projects</a> page, I have taken many courses in this area including: Information System Retreival and Design, Web, Text, and Data Mining, Big Data Analytics, and will be taking Gamification of Information. This is not an all-inclusive list of courses, so feel free to <a href="contact.php">contact</a> me through the website if you have any questions.</p>
+        <p>I am working toward a career in research or data librarianship and data analysis. Many of my projects are centered around this theme, but I enjoy all aspects of librarianship and data! In addition to the projects on the <a href="projects.php">Projects</a> page, I have taken many courses in this area including: Information System Retreival and Design, Web, Text, and Data Mining, Big Data Analytics, and will be taking Gamification of Information. This is not an all-inclusive list of courses, so feel free to contact me through any means listed in the sidebar if you have any questions.</p>
 
         <table class = "school">
             <caption>Schooling</caption>
@@ -53,7 +53,7 @@
             </tr>
             <tr>
                 <td><a href="http://www.csustan.edu/" target="_blank">California State University, Stanislaus</a></td>
-                <td>December 2015</td>
+                <td>May 2012</td>
                 <td>Bachelor of Arts</td>
                 <td>Philosophy</td>
             </tr>

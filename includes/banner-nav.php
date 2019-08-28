@@ -9,6 +9,5 @@
             <li><a href="projects.php">Projects</a></li>
             <li><a href="resources.php">Resources</a></li>
             <li><a href="about.php">About</a></li>
-            <li><a href="contact.php">Contact</a></li>
         </ul>
     </nav>

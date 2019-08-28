@@ -32,7 +32,6 @@
         <p><a href="projects.php" class="site-links">Projects</a>: My current and past work-related projects.</p>
         <p><a href="resources.php" class="site-links">Resources</a>: A collection of some of my most used and favorite online resources including software, books, and websites.</p>
         <p><a href="about.php" class="site-links">About</a>: About me and my journey into LIS and data.</p>
-        <p><a href="contact.php" class="site-links">Contact</a>: Contact me directly through my website.</p>
         
     </main>
 
